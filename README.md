@@ -1,1 +1,2 @@
-STQA-4 Initial commit
+Registration module development - STQA-4
+
